@@ -1,8 +1,6 @@
 # Hi, I'm Yasmin Suellen
 
-Information Systems student and frontend developer focused on building well-typed, production-quality interfaces with Next.js and TypeScript.
-
-Currently working as a Technical Onboarding Analyst at AnotaAI (iFood), where I bridge users, product, and engineering teams while deepening my skills in modern web development.
+Information Systems student and frontend and backend developer focused on building well-typed, production-quality interfaces and APIs with Next.js, TypeScript, and Node.js.
 
 ---
 
@@ -37,15 +35,15 @@ Currently working as a Technical Onboarding Analyst at AnotaAI (iFood), where I 
 Patient appointment rebooking feature built with Next.js 15, RTK Query, and TypeScript. Includes server-side validation, automatic cache invalidation, and specialty-locked rebooking logic.
 
 ### [Task Management Dashboard](https://github.com/yasminsuellen/task-management-dashboard)
-Task management application with filtering, sorting, and localStorage persistence — built with Next.js 14 App Router and TypeScript.
+Task management application with filtering, sorting, and localStorage persistence, built with Next.js 14 App Router and TypeScript.
 
 ---
 
 ## Background
 
-Before transitioning into development, I spent 2+ years at Stone investigating security incidents and analyzing transactional fraud using Splunk (SIEM). I then moved to AnotaAI (iFood), where I manage technical onboarding for automation platforms across a portfolio of ~70 active clients.
+Before transitioning into development, I spent 2+ years at Stone investigating security incidents and analyzing transactional fraud using Splunk (SIEM). I then moved to AnotaAI (iFood), where I managed technical onboarding for automation platforms, completing 900+ client onboardings.
 
-This background shapes how I approach software — with practical awareness of system behavior, data integrity, and technical documentation.
+This background shapes how I approach software, with practical awareness of system behavior, data integrity, and technical documentation.
 
 ---
 
