@@ -18,10 +18,4 @@ Before transitioning into development, I spent 2+ years at Stone investigating s
 
 ---
 
-## Connect
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yasminsuellen/)
-
----
-
 **English** · Advanced &nbsp;&nbsp;|&nbsp;&nbsp; **Portuguese** · Native &nbsp;&nbsp;|&nbsp;&nbsp; Brazil · Open to remote
